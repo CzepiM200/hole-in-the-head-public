@@ -1,5 +1,7 @@
 # Hole in the Head 
 
+### Android & iOS application
+
 ## Description
 An application I invented that aims to provide ideas for how to spend your free time
 
