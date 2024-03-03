@@ -6,6 +6,12 @@ An application I invented that aims to provide ideas for how to spend your free 
 ## Code
 The app is not ready yet, if you want to see the code or live app, please email me marcin.czepiela@gmail.com
 
+## Stack
+- React Native
+- TypeScript
+- NestJS
+- PostgreSQL
+
 ## Screenshots
 
 ### Main screen
