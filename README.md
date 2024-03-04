@@ -2,19 +2,19 @@
 
 ### Android & iOS application
 
-## Description
+## Description 🖊
 An application I invented that aims to provide ideas for how to spend your free time
 
-## Code
+## Code ❗️
 The app is not ready yet, if you want to see the code or live app, please email me marcin.czepiela@gmail.com
 
-## Stack
+## Stack 🥪
 - React Native
 - TypeScript
 - NestJS
 - PostgreSQL
 
-## Screenshots
+## Screenshots 📷
 
 ### Main screen
 ![image](https://github.com/CzepiM200/hole-in-the-head-public/assets/16826668/c0b1f0cf-cfac-4dbe-aeeb-fe2530f9ccff)
